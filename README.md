@@ -37,10 +37,6 @@ api_stand_tests/
 - Necesitas tener instalados los paquetes pytest y request para ejecutar las pruebas.
 - Ejecuta todas las pruebas con el comando pytest.
 
-2. Instalar las dependencias:
-bash
-pip install pytest requests
-
 ### Ejecutar todas las pruebas
 bash
 pytest create_user_test.py
@@ -57,10 +53,10 @@ pytest create_user_test.py -s
 Asegúrate de que la URL de la API esté correctamente configurada en el archivo sender_stand_request.py.
 
 ## Autor
-[Tu nombre]
+[Julio Gariel Lorenzana Prado]
 
 ## Notas
-Este proyecto fue desarrollado como parte del Sprint 6 del curso de QA Engineer.
+Este proyecto fue desarrollado como parte del Sprint 8 del curso de QA Engineer.
 ```
 
 Qué incluir específicamente
